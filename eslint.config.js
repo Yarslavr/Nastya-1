@@ -1,3 +1,4 @@
+/* Папка для структуры и форматирования и среды */
 import js from '@eslint/js'
 import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
